@@ -22,7 +22,7 @@ main {
   align-items: center;
 }
 
-h1 {
+h2 {
   font-family: 'Big Shoulders Display', cursive;
   font-size: 35px;
 }
@@ -133,7 +133,7 @@ h1 {
     letter-spacing: 0.7px;
   }
 
-  .car-body-types h1 {
+  .car-body-types h2 {
     margin-top: 34px;
   }
 }
